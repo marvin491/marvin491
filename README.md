@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marvin491
+- 👋 Hi, I’m @marvin491 // my profession is only a office clerk.
 - 👀 I’m interested in Web Dewelopment and Programming languages like Pyphon, PHP and MySQL is needed for Web Development. Mone interessted in Pyphon.
 - 🌱 I’m currently learning PHP and JavaScript for Web Development because my Profesion as Office Clerk doesn't working out like I thought it would.
 - 💞️ I’m looking to collaborate on, I don't know jet but AI I'm interessted pretty much.
